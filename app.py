@@ -1,5 +1,5 @@
 import streamlit as st
-from gorq import Groq
+from groq import Groq
 st.set_page_config("PragyanAI Content generator",layout="Wide")
 st.title("PragyanAi_content Generator")
 st.image(shiva1.jpg)   
