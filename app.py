@@ -3,7 +3,7 @@ from groq import Groq
 
 st.set_page_config("PragyanAI Content Generator", layout="wide")
 st.title("PragyanAI – Content Generator")
-st.image("shiva1.jpg")
+st.image("shiva1.jpeg")
 
 # Get Product Name and Audience for That Product
 product = st.text_input("Product")
